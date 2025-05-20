@@ -1,0 +1,4 @@
+10 Max Veg_Burger 120.00
+15 max Cold_Coffee 110.00
+57 sagar Pasta_Alfredo 180.00
+56 sagar French_Fries 90.00
